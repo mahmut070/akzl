@@ -1,0 +1,33 @@
+.usp{
+	background: #f4f4f4;
+	border-radius: 5px;
+	padding:5px 0px;
+	-webkit-box-shadow: inset 2px 2px 2px 0px rgba(50, 50, 50, 0.25);
+	-moz-box-shadow:    inset 2px 2px 2px 0px rgba(50, 50, 50, 0.25);
+	box-shadow:         inset 2px 2px 2px 0px rgba(50, 50, 50, 0.25);
+}
+
+.opsomming{
+	list-style-image: url('../img/vinkje.svg');
+	margin-left: 65px;
+}
+
+.opsomming li{
+	font-weight: 600;
+	padding: 8px;
+}
+
+.bel-voor-afspraak{
+	background: #104a7d;
+	padding: 15px 0px;
+	border-radius: 5px;
+	text-align: center;
+	margin-top: 20px;
+	-webkit-box-shadow: inset 2px 2px 2px 0px rgba(50, 50, 50, 0.25);
+	-moz-box-shadow:    inset 2px 2px 2px 0px rgba(50, 50, 50, 0.25);
+	box-shadow:         inset 2px 2px 2px 0px rgba(50, 50, 50, 0.25);
+}
+
+.bel-voor-afspraak a{
+	color: #ffffff;
+}

@@ -1,0 +1,92 @@
+// *************************************
+//
+// Navigation
+// -> Reusable navigation module
+//
+// *************************************
+
+@media all and (min-width: 1050px) { 
+  .full-bg-menu{
+    background: #113859;
+    padding: 15px 0px;
+    position: fixed;
+    z-index: 99999;
+    width: 100%;
+  }
+
+  .space{
+    height: 54px;
+  }
+  
+}
+
+
+.Navigation {
+  @include clearfix;
+  text-align: center;
+}
+
+.full-bg-menu{
+  background: #113859;
+  padding: 15px 0px;
+}
+
+// -------------------------------------
+// Module specific variables
+// -------------------------------------
+
+// Module-variableName
+
+// -------------------------------------
+// Modifiers
+// -------------------------------------
+
+// -------------------------------------
+// States
+// -------------------------------------
+
+.Navigation-list {
+	display: block;
+	margin: 0px;
+  float: right;
+}
+
+.Navigation-link.is-active {
+  font-weight: 700;
+}
+
+// -------------------------------------
+// Context
+// -------------------------------------
+
+// .has-module
+
+// -------------------------------------
+// Submodules
+// -------------------------------------
+
+// ----- List item ----- //
+
+.Navigation-listItem {
+  display: block;
+  margin: 0 rem(15px);
+  float: left;
+  &:first-of-type {
+    margin-left: 0;
+  }
+  &:last-of-type {
+    margin-right: 0;
+  }
+}
+
+// ----- Navigation link ----- //
+
+.Navigation-link {
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.Navigation-link--invertedBold {
+  color: $c-white; 
+  font-weight: bold;
+}

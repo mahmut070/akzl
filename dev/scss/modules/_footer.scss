@@ -1,0 +1,66 @@
+.Footer {
+	background: #113859;
+	padding-top: 25px;
+	padding-bottom: 15px;
+}
+
+.Footer b{
+	color: #ffffff;
+}
+
+.Footer p{
+	color: #ffffff;
+}
+
+.logo-footer{
+	width: 189px;
+	margin-top: 38px;
+}
+
+.footer-contact-row{
+	color: #ffffff;
+	margin-top: 10px;
+}
+
+.footer-icons{
+  margin: 0;
+  display: inline;
+  vertical-align: middle;
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+ }
+
+ .menu-0{
+ 	width: 150px;
+ }
+
+// RESPONSIVE FOOTER
+.Footer-inner .widget {
+	@include span-columns(4);
+	@media screen and(max-width: 980px){
+		@include span-columns(12);
+	}
+}
+
+.Footer-inner {
+}
+
+//style the widgets
+.Footer-inner .widget {
+
+}
+
+
+.Socket{
+	text-align: center;
+	color: #4d4e50;
+}
+
+.Socket a{
+	color: #024c8d;
+}
+
+.oranje-link{
+	color: #f9971a;
+}

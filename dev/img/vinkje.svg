@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="21.131px" height="21.001px" viewBox="0 0 21.131 21.001" enable-background="new 0 0 21.131 21.001" xml:space="preserve">
+<circle fill="#104A7D" cx="10.542" cy="10.542" r="10.542"/>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="10.542" cy="10.542" r="10.542"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="16.2637" y1="22.1025" x2="13.1846" y2="7.6166">
+			<stop  offset="0" style="stop-color:#000000;stop-opacity:0.25"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<polygon opacity="0.7" fill="url(#SVGID_3_)" points="17.742,6.648 21.077,9.984 21.077,9.984 21.079,21.079 12.468,21.08 
+			7.627,16.239 		"/>
+		<g>
+			<polygon fill="#FFFFFF" points="7.873,16.517 3.336,11.981 5.491,9.827 7.873,12.207 15.586,4.493 17.742,6.648 			"/>
+		</g>
+	</g>
+</g>
+</svg>
